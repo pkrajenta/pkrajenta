@@ -1,7 +1,7 @@
 ## Hi there, my name is...
-...tricky to pronounce – it's Przemek (P-sh-ee-meck). 
-For an easier reference, you can check out [Google Translate's take](https://translate.google.com/?sl=pl&tl=en&text=przemek&op=translate).
-Interestingly, it translates my name to "a slog," which means to work hard over a long period.
+...tricky to pronounce – it's Przemek (P-sh-ee-meck).  
+For an easier reference, you can check out [Google Translate's take](https://translate.google.com/?sl=pl&tl=en&text=przemek&op=translate).  
+Interestingly, it translates my name to "a slog" which means to work hard over a long period.
 
 Well, that's exactly what I've been doing – and plan to keep doing.
 
